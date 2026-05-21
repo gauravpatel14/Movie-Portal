@@ -1,0 +1,2457 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "img":"/movieposter/dark.png",
+      "poster": "/movieposter/1.png",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": "2",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "img":"/movieposter/bad.png",
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "3",
+      "title": "The Conjuring",
+      "year": 2013,
+      "rating": 7.5,
+      "runtime": "112 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "James Wan",
+      "cast": [
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Lili Taylor"
+      ],
+      "poster": "/movieposter/con.png",
+      "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    {
+      "id": "4",
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "rating": 8.1,
+      "runtime": "120 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=hEJnMQG9ev8",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "director": "George Miller",
+      "cast": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+      ],
+      "img":"/movieposter/mad.png",
+      "poster": "/movieposter/4.png",
+      "description": "In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners, a psychotic worshiper, and a drifter named Max."
+    },
+    {
+      "id": "5",
+      "title": "K.G.F: Chapter 1",
+      "year": 2018,
+      "rating": 8.2,
+      "runtime": "156 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=-KfsY-qwBS0",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Prashanth Neel",
+      "cast": [
+        "Yash",
+        "Srinidhi Shetty",
+        "Ramachandra Raju"
+      ],
+      "poster": "/movieposter/5.png",
+      "description": "Rocky, a young man, seeks power and wealth in order to fulfill a promise to his dying mother, leading him to the notorious Kolar Gold Fields."
+    },
+    {
+      "id": "6",
+      "title": "Baahubali: The Beginning",
+      "year": 2015,
+      "rating": 8,
+      "runtime": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=3NQRhE772b0",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "director": "S.S. Rajamouli",
+      "cast": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty"
+      ],
+      "poster": "/movieposter/6.png",
+      "description": "In ancient Kingdom of Mahishmati, a powerful warrior's son grows up among tribal people and learns of his heroic heritage."
+    },
+    {
+      "id": "7",
+      "title": "Vikram",
+      "year": 2022,
+      "rating": 8.3,
+      "runtime": "175 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=L4LWIXngIG0",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": "Lokesh Kanagaraj",
+      "cast": [
+        "Kamal Haasan",
+        "Vijay Sethupathi",
+        "Fahadh Faasil"
+      ],
+      "img":"/movieposter/vikram.png",
+      "poster": "/movieposter/7.png",
+      "description": "A special agent investigates a murder committed by a masked group of serial killers, uncovering a massive drug syndicate."
+    },
+    {
+      "id": "8",
+      "title": "RRR",
+      "year": 2022,
+      "rating": 7.8,
+      "runtime": "187 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=GY4BgdUSpbE",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "director": "S.S. Rajamouli",
+      "cast": [
+        "N.T. Rama Rao Jr.",
+        "Ram Charan",
+        "Alia Bhatt"
+      ],
+      "img":"/movieposter/rrr.png",
+      "poster": "/movieposter/8.png",
+      "description": "A fearless revolutionary and an officer in the British army forge a deep friendship before uncovering each other's true identities."
+    },
+    {
+      "id": "9",
+      "title": "Jawan",
+      "year": 2023,
+      "rating": 7,
+      "runtime": "169 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=MWOlnZSnXJo",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Atlee",
+      "cast": [
+        "Shah Rukh Khan",
+        "Nayanthara",
+        "Vijay Sethupathi"
+      ],
+      "poster": "/movieposter/9.png",
+      "description": "A high-octane action thriller which outlines the emotional journey of a man who is set to rectify the wrongs in the society."
+    },
+    {
+      "id": "10",
+      "title": "Gangs of Wasseypur",
+      "year": 2012,
+      "rating": 8.2,
+      "runtime": "321 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=9ZpPQdrHfl8",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Anurag Kashyap",
+      "cast": [
+        "Manoj Bajpayee",
+        "Nawazuddin Siddiqui",
+        "Tigmanshu Dhulia"
+      ],
+      "poster": "/movieposter/10.png",
+      "description": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, igniting a deadly three-generation blood feud."
+    },
+    {
+      "id": "11",
+      "title": "War",
+      "year": 2019,
+      "rating": 6.5,
+      "runtime": "154 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=tQ0mzXRk-oM",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Siddharth Anand",
+      "cast": [
+        "Hrithik Roshan",
+        "Tiger Shroff",
+        "Vaani Kapoor"
+      ],
+      "poster": "/movieposter/11.png",
+      "description": "An Indian soldier is assigned to eliminate his former mentor, who has gone rogue after a highly classified mission."
+    },
+    {
+      "id": "12",
+      "title": "Pushpa: The Rise",
+      "year": 2021,
+      "rating": 7.6,
+      "runtime": "179 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pKctjlxbFDQ",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Sukumar",
+      "cast": [
+        "Allu Arjun",
+        "Rashmika Mandanna",
+        "Fahadh Faasil"
+      ],
+      "poster": "/movieposter/12.png",
+      "description": "Violence flares between red sandalwood smugglers and the police charged with bringing down their highly lucrative operation."
+    },
+    {
+      "id": "13",
+      "title": "Singham",
+      "year": 2011,
+      "rating": 6.8,
+      "runtime": "143 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=mp-XqCrCi6I",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": "Rohit Shetty",
+      "cast": [
+        "Ajay Devgn",
+        "Prakash Raj",
+        "Kajal Aggarwal"
+      ],
+      "poster": "/movieposter/13.png",
+      "description": "An honest, small-town police officer clashes with a powerful, corrupt politician who controls the city's criminal underworld."
+    },
+    {
+      "id": "14",
+      "title": "Sholay",
+      "year": 1975,
+      "rating": 8.1,
+      "runtime": "204 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=fefaxq2nXoE",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "director": "Ramesh Sippy",
+      "cast": [
+        "Dharmendra",
+        "Amitabh Bachchan",
+        "Sanjeev Kumar"
+      ],
+      "poster": "/movieposter/14.png",
+      "description": "After his family is murdered by a notorious bandit, a retired police officer hires two ex-convicts to help him capture the outlaw."
+    },
+    {
+      "id": "15",
+      "title": "Tumbbad",
+      "year": 2018,
+      "rating": 8.2,
+      "runtime": "104 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=O9CaB4J4VEI",
+      "genres": [
+        "Adventure",
+        "Horror",
+        "Fantasy"
+      ],
+      "director": "Rahi Anil Barve",
+      "cast": [
+        "Sohum Shah",
+        "Jyoti Malshe",
+        "Dhundiraj Prabhakar Prabhakar"
+      ],
+      "poster": "/movieposter/15.png",
+      "description": "A mythological story about a goddess who created the entire universe and her firstborn son, Hastar, a demon hungry for gold."
+    },
+    {
+      "id": "16",
+      "title": "Kantara",
+      "year": 2022,
+      "rating": 8.3,
+      "runtime": "148 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=6oKFao0aISA",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "director": "Rishab Shetty",
+      "cast": [
+        "Rishab Shetty",
+        "Kishore Kumar G.",
+        "Achyuth Kumar"
+      ],
+      "img":"/movieposter/kan.png",
+      "poster": "/movieposter/16.png",
+      "description": "When greed paves the way for betrayal and rebellion, a local champion must defend his village and ancestral forest from dark forces."
+    },
+    {
+      "id": "17",
+      "title": "Zindagi Na Milegi Dobara",
+      "year": 2011,
+      "rating": 8.2,
+      "runtime": "155 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=FJrpcDgC3zU",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Zoya Akhtar",
+      "cast": [
+        "Hrithik Roshan",
+        "Farhan Akhtar",
+        "Abhay Deol"
+      ],
+      "poster": "/movieposter/17.png",
+      "description": "Three friends decide to turn their fantasy bachelor road trip into reality across Spain, discovering life-changing realizations."
+    },
+    {
+      "id": "18",
+      "title": "Jagga Jasoos",
+      "year": 2017,
+      "rating": 6.5,
+      "runtime": "162 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=YheC-4Qgoro",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Mystery"
+      ],
+      "director": "Anurag Basu",
+      "cast": [
+        "Ranbir Kapoor",
+        "Katrina Kaif",
+        "Saswata Chatterjee"
+      ],
+      "poster": "/movieposter/18.png",
+      "description": "Join a gifted teenage detective and his female companion on a thrilling journey to find his missing foster father."
+    },
+    {
+      "id": "19",
+      "title": "Krrish 3",
+      "year": 2013,
+      "rating": 5.3,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=_6Ix1VF_yWM",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Rakesh Roshan",
+      "cast": [
+        "Hrithik Roshan",
+        "Vivek Oberoi",
+        "Priyanka Chopra"
+      ],
+      "poster": "/movieposter/19.png",
+      "description": "Krrish and his scientist father must fight an evil genius named Kaal and his army of human-animal mutants."
+    },
+    {
+      "id": "20",
+      "title": "Minnal Murali",
+      "year": 2021,
+      "rating": 7.9,
+      "runtime": "158 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Vctn-pq6MEs",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Comedy"
+      ],
+      "director": "Basil Joseph",
+      "cast": [
+        "Tovino Thomas",
+        "Guru Somasundaram",
+        "Aju Varghese"
+      ],
+      "poster": "/movieposter/20.png",
+      "description": "An ordinary tailor gains superpower lightning strikes, transforming him into the protector of his local village."
+    },
+    {
+      "id": "21",
+      "title": "Baahubali 2: The Conclusion",
+      "year": 2017,
+      "rating": 8.2,
+      "runtime": "167 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=G62HrubdD6o",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Drama"
+      ],
+      "director": "S.S. Rajamouli",
+      "cast": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty"
+      ],
+      "poster": "/movieposter/21.png",
+      "description": "When Shiva, the son of Bahubali, learns about his heritage, he begins to look for answers. His story is juxtaposed with past events."
+    },
+    {
+      "id": "22",
+      "title": "Detective Byomkesh Bakshy!",
+      "year": 2015,
+      "rating": 7.6,
+      "runtime": "139 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=ZG--Oasbe6U",
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Dibakar Banerjee",
+      "cast": [
+        "Sushant Singh Rajput",
+        "Anand Tiwari",
+        "Neeraj Kabi"
+      ],
+      "poster": "/movieposter/22.png",
+      "description": "In a second-world-war-torn Calcutta, a young, fresh-out-of-college Byomkesh Bakshi steps up against an evil mastermind."
+    },
+    {
+      "id": "23",
+      "title": "Manjhi - The Mountain Man",
+      "year": 2015,
+      "rating": 8,
+      "runtime": "120 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=I9Ka2gAAM9k",
+      "genres": [
+        "Adventure",
+        "Biography",
+        "Drama"
+      ],
+      "director": "Ketan Mehta",
+      "cast": [
+        "Nawazuddin Siddiqui",
+        "Radhika Apte",
+        "Ashutosh Acharya"
+      ],
+      "poster": "/movieposter/23.png",
+      "description": "Using only a hammer and a chisel, a man spends 22 years carving a road through a treacherous mountain in memory of his late wife."
+    },
+    {
+      "id": "24",
+      "title": "Mariyadhai",
+      "year": 2009,
+      "rating": 5.1,
+      "runtime": "150 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=kYR67GKzLSU",
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "director": "Vikraman",
+      "cast": [
+        "Vijayakanth",
+        "Meera Jasmine",
+        "Ambika"
+      ],
+      "poster": "/movieposter/24.png",
+      "description": "An adventurous family journey testing the loyalty and ties between a respected village head and his loving son."
+    },
+    {
+      "id": "25",
+      "title": "3 Idiots",
+      "year": 2009,
+      "rating": 8.4,
+      "runtime": "170 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=K0eDlFX9GMc",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "Madhavan",
+        "Sharman Joshi"
+      ],
+      "poster": "/movieposter/25.png",
+      "description": "Two friends search for their long-lost companion. They revisit their college days and recall the memories of their friend who inspired them."
+    },
+    {
+      "id": "26",
+      "title": "Hera Pheri",
+      "year": 2000,
+      "rating": 8.2,
+      "runtime": "156 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=TIQ5hrfermg",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Priyadarshan",
+      "cast": [
+        "Akshay Kumar",
+        "Suniel Shetty",
+        "Paresh Rawal"
+      ],
+      "poster": "/movieposter/26.png",
+      "description": "Three unemployed roommates find themselves in a massive financial mess, only to get an accidental ransom call from a kidnapper."
+    },
+    {
+      "id": "27",
+      "title": "Dhamaal",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4pS6_V2H-S4",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Indra Kumar",
+      "cast": [
+        "Sanjay Dutt",
+        "Riteish Deshmukh",
+        "Arshad Warsi"
+      ],
+      "poster": "/movieposter/27.png",
+      "description": "Four lazy con friends run across a dying underworld thief who reveals the location of hidden stolen treasure in Goa."
+    },
+    {
+      "id": "28",
+      "title": "Stree",
+      "year": 2018,
+      "rating": 7.5,
+      "runtime": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=gzeaGcLLlI4",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "director": "Amar Kaushik",
+      "cast": [
+        "Rajkummar Rao",
+        "Shraddha Kapoor",
+        "Pankaj Tripathi"
+      ],
+      "poster": "/movieposter/28.png",
+      "description": "In the small town of Chanderi, men live in fear of an evil spirit named Stree who kidnaps young men alone during festive nights."
+    },
+    {
+      "id": "29",
+      "title": "Chhichhore",
+      "year": 2019,
+      "rating": 8.3,
+      "runtime": "143 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=tsxemFX0a7k",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Nitesh Tiwari",
+      "cast": [
+        "Sushant Singh Rajput",
+        "Shraddha Kapoor",
+        "Varun Sharma"
+      ],
+      "poster": "/movieposter/29.png",
+      "description": "A tragic incident forces a middle-aged man to take a trip down memory lane and reunite with his college friends to inspire his son."
+    },
+    {
+      "id": "30",
+      "title": "Welcome",
+      "year": 2007,
+      "rating": 7,
+      "runtime": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=pS8X8tO_M8c",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "director": "Anees Bazmee",
+      "cast": [
+        "Akshay Kumar",
+        "Katrina Kaif",
+        "Nana Patekar"
+      ],
+      "poster": "/movieposter/30.png",
+      "description": "A handsome bachelor falls completely in love with a beautiful woman, but discovers her brothers happen to be criminal mafia dons."
+    },
+    {
+      "id": "31",
+      "title": "Bhool Bhulaiyaa",
+      "year": 2007,
+      "rating": 7.4,
+      "runtime": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=J7_S6_8p_p8",
+      "genres": [
+        "Comedy",
+        "Horror",
+        "Mystery"
+      ],
+      "director": "Priyadarshan",
+      "cast": [
+        "Akshay Kumar",
+        "Vidya Balan",
+        "Shiney Ahuja"
+      ],
+      "poster": "/movieposter/31.png",
+      "description": "An eccentric psychiatrist is called to investigate paranormal supernatural claims in an ancestral royal palace."
+    },
+    {
+      "id": "32",
+      "title": "Andaz Apna Apna",
+      "year": 1994,
+      "rating": 8,
+      "runtime": "160 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=FwL8f8Vb06k",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "director": "Rajkumar Santoshi",
+      "cast": [
+        "Aamir Khan",
+        "Salman Khan",
+        "Raveena Tandon"
+      ],
+      "poster": "/movieposter/32.png",
+      "description": "Two lazy day-dreaming slackers compete closely to win the heart affection of a rich heiress, protecting her from a criminal."
+    },
+    {
+      "id": "33",
+      "title": "Fukrey",
+      "year": 2013,
+      "rating": 6.9,
+      "runtime": "138 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=i0bK78v_mEw",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Mrighdeep Singh Lamba",
+      "cast": [
+        "Pulkit Samrat",
+        "Varun Sharma",
+        "Ali Fazal"
+      ],
+      "poster": "/movieposter/33.png",
+      "description": "Four college dreamers join hands to make easy fast cash, getting tangled with a ruthless female Delhi loan shark."
+    },
+    {
+      "id": "34",
+      "title": "Drishyam",
+      "year": 2015,
+      "rating": 8.2,
+      "runtime": "163 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=AuuX2jY4u9U",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Nishikant Kamat",
+      "cast": [
+        "Ajay Devgn",
+        "Tabu",
+        "Shriya Saran"
+      ],
+      "poster": "/movieposter/34.png",
+      "description": "A cable TV network operator goes to extreme deceptive lengths to shield his family from a relentless police investigation after an accidental death."
+    },
+    {
+      "id": "35",
+      "title": "Andhadhun",
+      "year": 2018,
+      "rating": 8.2,
+      "runtime": "139 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=2iVYI99VGaw",
+      "genres": [
+        "Thriller",
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Sriram Raghavan",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Tabu",
+        "Radhika Apte"
+      ],
+      "poster": "/movieposter/35.png",
+      "description": "A blind piano player accidentally witnesses the murder of a former film actor, spiraling into a web of strange crises."
+    },
+    {
+      "id": "36",
+      "title": "Kahaani",
+      "year": 2012,
+      "rating": 8.1,
+      "runtime": "122 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=rs9m3UEXI8Y",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "director": "Sujoy Ghosh",
+      "cast": [
+        "Vidya Balan",
+        "Parambrata Chattopadhyay",
+        "Nawazuddin Siddiqui"
+      ],
+      "poster": "/movieposter/36.png",
+      "description": "A pregnant software engineer arrives in Kolkata from London to locate her missing husband, discovering dark institutional cover-ups."
+    },
+    {
+      "id": "37",
+      "title": "A Wednesday",
+      "year": 2008,
+      "rating": 8.1,
+      "runtime": "91 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=K8vUfCco_D0",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Crime"
+      ],
+      "director": "Neeraj Pandey",
+      "cast": [
+        "Anupam Kher",
+        "Naseeruddin Shah",
+        "Jimmy Sheirgill"
+      ],
+      "poster": "/movieposter/37.png",
+      "description": "A retiring Mumbai police commissioner receives a call from an anonymous man threating bomb explosions unless terror convicts are freed."
+    },
+    {
+      "id": "38",
+      "title": "Talaash",
+      "year": 2012,
+      "rating": 7.2,
+      "runtime": "139 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=668pLclUf5o",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "director": "Reema Kagti",
+      "cast": [
+        "Aamir Khan",
+        "Kareena Kapoor",
+        "Rani Mukerji"
+      ],
+      "poster": "/movieposter/38.png",
+      "description": "An inspector coping with a deep personal tragedy solves a mysterious car crash involving a popular film star."
+    },
+    {
+      "id": "39",
+      "title": "Special 26",
+      "year": 2013,
+      "rating": 8,
+      "runtime": "144 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Z57Zp9Ssc2I",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Neeraj Pandey",
+      "cast": [
+        "Akshay Kumar",
+        "Anupam Kher",
+        "Manoj Bajpayee"
+      ],
+      "poster": "/movieposter/39.png",
+      "description": "A clever team of con artists pull off high-profile business raids by posing as CBI income tax officials."
+    },
+    {
+      "id": "40",
+      "title": "Ratsasan",
+      "year": 2018,
+      "rating": 8.4,
+      "runtime": "170 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Gs9YfN0A8_8",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "director": "Ram Kumar",
+      "cast": [
+        "Vishnu Vishal",
+        "Amala Paul",
+        "Saravanan"
+      ],
+      "img":"/movieposter/rat.png",
+      "poster": "/movieposter/40.png",
+      "description": "An aspiring filmmaker turns police sub-inspector tracks down a psychotic serial killer preying on schoolgirls."
+    },
+    {
+      "id": "41",
+      "title": "Manorama Six Feet Under",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "137 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=XqWp1zN9Fk8",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "director": "Navdeep Singh",
+      "cast": [
+        "Abhay Deol",
+        "Gul Panag",
+        "Raima Sen"
+      ],
+      "poster": "/movieposter/41.png",
+      "description": "A suspended public engineer in Rajasthan gets caught in a web of deceit when hired to spy on a politician."
+    },
+    {
+      "id": "42",
+      "title": "Ugly",
+      "year": 2013,
+      "rating": 8,
+      "runtime": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=hO2_N6XQ364",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Anurag Kashyap",
+      "cast": [
+        "Rahul Bhat",
+        "Ronit Roy",
+        "Tejaswini Kolhapure"
+      ],
+      "poster": "/movieposter/42.png",
+      "description": "The complex, heartbreaking kidnapping investigation of a young girl reveals the sheer greed and dark nature of humanity."
+    },
+    {
+      "id": "43",
+      "title": "Talvar",
+      "year": 2015,
+      "rating": 8.1,
+      "runtime": "132 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=aQNMsw8Ljjc",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "director": "Meghna Gulzar",
+      "cast": [
+        "Irrfan Khan",
+        "Konkona Sen Sharma",
+        "Neeraj Kabi"
+      ],
+      "poster": "/movieposter/43.png",
+      "description": "An objective documentation on the conflicting investigation accounts of a real-life sensational double homicide murder case."
+    },
+    {
+      "id": "44",
+      "title": "Don",
+      "year": 2006,
+      "rating": 7.1,
+      "runtime": "171 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=A83N9g78mX0",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": "Farhan Akhtar",
+      "cast": [
+        "Shah Rukh Khan",
+        "Priyanka Chopra",
+        "Boman Irani"
+      ],
+      "poster": "/movieposter/44.png",
+      "description": "A simple lookalike is recruited by law enforcement to go deep undercover posing as a deceased international crime kingpin."
+    },
+    {
+      "id": "45",
+      "title": "Uri: The Surgical Strike",
+      "year": 2019,
+      "rating": 8.2,
+      "runtime": "138 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=foGZ_bUec3M",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "director": "Aditya Dhar",
+      "cast": [
+        "Vicky Kaushal",
+        "Paresh Rawal",
+        "Yami Gautam"
+      ],
+      "poster": "/movieposter/45.png",
+      "description": "Divided into five chapters, the film chronicles the real-life retaliatory surgical strikes carried out by the Indian Army."
+    },
+    {
+      "id": "46",
+      "title": "Raone",
+      "year": 2011,
+      "rating": 4.7,
+      "runtime": "156 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5DkaM_WpEw4",
+      "genres": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "director": "Anubhav Sinha",
+      "cast": [
+        "Shah Rukh Khan",
+        "Arjun Rampal",
+        "Kareena Kapoor"
+      ],
+      "poster": "/movieposter/46.png",
+      "description": "When an advanced gaming villain escapes into the physical world, a software engineer's son must power up the hero to fight."
+    },
+    {
+      "id": "47",
+      "title": "Ghajini",
+      "year": 2008,
+      "rating": 7.3,
+      "runtime": "183 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=28_N8f8K0Yc",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "director": "A.R. Murugadoss",
+      "cast": [
+        "Aamir Khan",
+        "Asin",
+        "Jiah Khan"
+      ],
+      "poster": "/movieposter/47.png",
+      "description": "A wealthy businessman suffering from short-term memory loss sets out to avenge his lover's murder using body tattoos."
+    },
+    {
+      "id": "48",
+      "title": "Dhoom 2",
+      "year": 2006,
+      "rating": 6.5,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=hL6d3w_L_gY",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Sanjay Gadhvi",
+      "cast": [
+        "Hrithik Roshan",
+        "Abhishek Bachchan",
+        "Aishwarya Rai Bachchan"
+      ],
+      "poster": "/movieposter/48.png",
+      "description": "A tech-savvy police officer tracks an elite global thief who steals priceless historical artifacts across countries."
+    },
+    {
+      "id": "49",
+      "title": "Pathaan",
+      "year": 2023,
+      "rating": 5.9,
+      "runtime": "146 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=vqu4z34wENw",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Siddharth Anand",
+      "cast": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "John Abraham"
+      ],
+      "poster": "/movieposter/49.png",
+      "description": "An exiled Indian intelligence field agent returns to duty to dismantle a lethal global mercenary terror outfit."
+    },
+    {
+      "id": "50",
+      "title": "Sye Raa Narasimha Reddy",
+      "year": 2019,
+      "rating": 7.4,
+      "runtime": "171 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=f_XbV1RskS0",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "director": "Surender Reddy",
+      "cast": [
+        "Chiranjeevi",
+        "Amitabh Bachchan",
+        "Sudeep"
+      ],
+      "poster": "/movieposter/50.png",
+      "description": "A historical freedom warrior starts an armed rebellion against the tyrannical rule of the British East India Company."
+    },
+    {
+      "id": "51",
+      "title": "Agent Sai Srinivasa Athreya",
+      "year": 2019,
+      "rating": 8.4,
+      "runtime": "148 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=vXnZasXfUXA",
+      "genres": [
+        "Adventure",
+        "Comedy",
+        "Mystery"
+      ],
+      "director": "Swaroop RSJ",
+      "cast": [
+        "Naveen Polishetty",
+        "Shruti Sharma",
+        "Shredha Rajagopalan"
+      ],
+      "poster": "/movieposter/51.png",
+      "description": "A brilliant, small-town detective stumbles onto a terrifying, large-scale mystery involving unidentified abandoned corpses."
+    },
+    {
+      "id": "52",
+      "title": "Anji",
+      "year": 2004,
+      "rating": 6,
+      "runtime": "166 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Pl0BIDqS0iU",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "director": "Kodi Ramakrishna",
+      "cast": [
+        "Chiranjeevi",
+        "Namrata Shirodkar",
+        "Tinnu Anand"
+      ],
+      "poster": "/movieposter/52.png",
+      "description": "A young man must guard a sacred, mythical Atmalingam possessing incredible cosmic power from an evil greed tycoon."
+    },
+    {
+      "id": "53",
+      "title": "7 Days in Entebbe",
+      "year": 2018,
+      "rating": 6,
+      "runtime": "107 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=FwVv_VzreZ0",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller"
+      ],
+      "director": "José Padilha",
+      "cast": [
+        "Daniel Brühl",
+        "Rosamund Pike",
+        "Eddie Marsan"
+      ],
+      "poster": "/movieposter/53.png",
+      "description": "Inspired by true events detailing a daring counter-terrorist hostage rescue operation in Uganda."
+    },
+    {
+      "id": "54",
+      "title": "PK",
+      "year": 2014,
+      "rating": 8.1,
+      "runtime": "153 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=SOXWc32k4zA",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "director": "Rajkumar Hirani",
+      "cast": [
+        "Aamir Khan",
+        "Anushka Sharma",
+        "Sushant Singh Rajput"
+      ],
+      "poster": "/movieposter/54.png",
+      "description": "An innocent alien stranded on Earth loses his communication device, asking basic logical questions about human religion."
+    },
+    {
+      "id": "55",
+      "title": "Golmaal: Fun Unlimited",
+      "year": 2006,
+      "rating": 7.4,
+      "runtime": "150 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=zHbyGz3oK3c",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Rohit Shetty",
+      "cast": [
+        "Ajay Devgn",
+        "Arshad Warsi",
+        "Sharman Joshi"
+      ],
+      "poster": "/movieposter/55.png",
+      "description": "Four mischievous college slackers take refuge inside a wealthy blind couple's home, pretending one is their grandson."
+    },
+    {
+      "id": "56",
+      "title": "Delhi Belly",
+      "year": 2011,
+      "rating": 7.5,
+      "runtime": "103 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=wn7D_M_S480",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "director": "Abhinay Deo",
+      "cast": [
+        "Imran Khan",
+        "Vir Das",
+        "Kunaal Roy Kapur"
+      ],
+      "poster": "/movieposter/56.png",
+      "description": "Three roommates accidentally mix up a high-value package of smuggled diamonds with a medical stool sample."
+    },
+    {
+      "id": "57",
+      "title": "Bala",
+      "year": 2019,
+      "rating": 7.3,
+      "runtime": "131 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=1B6_8f_E6jY",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "director": "Amar Kaushik",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Bhumi Pednekar",
+        "Yami Gautam"
+      ],
+      "poster": "/movieposter/57.png",
+      "description": "A young man suffers deeply from premature balding and deals with societal pressures regarding superficial beauty standards."
+    },
+    {
+      "id": "58",
+      "title": "Bareilly Ki Barfi",
+      "year": 2017,
+      "rating": 7.5,
+      "runtime": "116 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=M2q6pXzYf6g",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "director": "Ashwiny Iyer Tiwari",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Kriti Sanon",
+        "Rajkummar Rao"
+      ],
+      "poster": "/movieposter/58.png",
+      "description": "A free-spirited small-town girl reads a novel that changes her perspective, setting out to meet the author."
+    },
+    {
+      "id": "59",
+      "title": "Vicky Donor",
+      "year": 2012,
+      "rating": 7.8,
+      "runtime": "126 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=3nIbe_p8S_Y",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "director": "Shoojit Sircar",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Yami Gautam",
+        "Annu Kapoor"
+      ],
+      "poster": "/movieposter/59.png",
+      "description": "A fertility clinic doctor convinces a lighthearted unemployed youth to become a highly sought-after sperm donor."
+    },
+    {
+      "id": "60",
+      "title": "Sacred Games: The Movie",
+      "year": 2019,
+      "rating": 8.6,
+      "runtime": "150 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=cNh_G9MvJNQ",
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "director": "Anurag Kashyap",
+      "cast": [
+        "Saif Ali Khan",
+        "Nawazuddin Siddiqui",
+        "Radhika Apte"
+      ],
+      "poster": "/movieposter/60.png",
+      "description": "A link in their pasts leads an honest police officer to a fugitive gang boss whose cryptic warning prompts a quest to save Mumbai."
+    },
+    {
+      "id": "61",
+      "title": "Badla",
+      "year": 2019,
+      "rating": 7.8,
+      "runtime": "118 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=m6V7-N4S7bM",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "director": "Sujoy Ghosh",
+      "cast": [
+        "Amitabh Bachchan",
+        "Taapsee Pannu",
+        "Amrita Singh"
+      ],
+      "poster": "/movieposter/61.png",
+      "description": "A highly successful young entrepreneur finds herself locked in a hotel room with the corpse of her dead lover."
+    },
+    {
+      "id": "62",
+      "title": "Article 15",
+      "year": 2019,
+      "rating": 8.1,
+      "runtime": "130 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=HKHJ28G8XpY",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Anubhav Sinha",
+      "cast": [
+        "Ayushmann Khurrana",
+        "Nassar",
+        "Manoj Pahwa"
+      ],
+      "poster": "/movieposter/62.png",
+      "description": "An upright rural police officer navigates deep societal division and political corruption while investigating missing girls."
+    },
+    {
+      "id": "63",
+      "title": "NH10",
+      "year": 2015,
+      "rating": 7.2,
+      "runtime": "115 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=N-G1-zsh_80",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Navdeep Singh",
+      "cast": [
+        "Anushka Sharma",
+        "Neil Bhoopalam",
+        "Darshan Kumaar"
+      ],
+      "poster": "/movieposter/63.png",
+      "description": "A couple's relaxing weekend road trip takes a terrifying turn after witnessing a violent honor killing incident."
+    },
+    {
+      "id": "64",
+      "title": "The Tashkent Files",
+      "year": 2019,
+      "rating": 7.9,
+      "runtime": "134 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=fAym4Y88j0Q",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "director": "Vivek Agnihotri",
+      "cast": [
+        "Naseeruddin Shah",
+        "Mithun Chakraborty",
+        "Shweta Basu Prasad"
+      ],
+      "poster": "/movieposter/64.png",
+      "description": "An ambitious young journalist investigates the highly controversial and mysterious death of India's second Prime Minister."
+    },
+    {
+      "id": "65",
+      "title": "Mardaani",
+      "year": 2014,
+      "rating": 7.3,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=04H0A_I7Zlo",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": "Pradeep Sarkar",
+      "cast": [
+        "Rani Mukerji",
+        "Tahir Raj Bhasin",
+        "Jisshu Sengupta"
+      ],
+      "poster": "/movieposter/65.png",
+      "description": "An aggressive, dedicated female senior inspector discovers an dark human trafficking racket hiding within the shadows."
+    },
+    {
+      "id": "66",
+      "title": "Raazi",
+      "year": 2018,
+      "rating": 7.8,
+      "runtime": "138 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=YjMSttRJ9zo",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "director": "Meghna Gulzar",
+      "cast": [
+        "Alia Bhatt",
+        "Vicky Kaushal",
+        "Jaideep Ahlawat"
+      ],
+      "poster": "/movieposter/66.png",
+      "description": "An innocent Kashmiri college student is married off to a Pakistani military officer to serve as an undercover intelligence asset."
+    },
+    {
+      "id": "67",
+      "title": "Wazir",
+      "year": 2016,
+      "rating": 7.1,
+      "runtime": "103 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=AeeYwRorXSw",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Mystery"
+      ],
+      "director": "Bejoy Nambiar",
+      "cast": [
+        "Amitabh Bachchan",
+        "Farhan Akhtar",
+        "Aditi Rao Hydari"
+      ],
+      "poster": "/movieposter/67.png",
+      "description": "A grieving anti-terror officer finds solace playing chess with a disabled grandmaster whose daughter died under strange premises."
+    },
+    {
+      "id": "68",
+      "title": "Ghajini 2",
+      "year": 2024,
+      "rating": 7,
+      "runtime": "150 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=28_N8f8K0Yc",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "A.R. Murugadoss",
+      "cast": [
+        "Aamir Khan",
+        "Surya",
+        "Asin"
+      ],
+      "poster": "/movieposter/68.png",
+      "description": "The high-octane continuation of Sanjay Singhania's fight to secure justice against criminal syndicates."
+    },
+    {
+      "id": "69",
+      "title": "Baby",
+      "year": 2015,
+      "rating": 7.9,
+      "runtime": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=t60EofvK9v8",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Neeraj Pandey",
+      "cast": [
+        "Akshay Kumar",
+        "Rana Daggubati",
+        "Danny Denzongpa"
+      ],
+      "poster": "/movieposter/69.png",
+      "description": "An elite counter-terrorism operational team rushes against the ticking clock to dismantle a massive catastrophic terror attack plot."
+    },
+    {
+      "id": "70",
+      "title": "Sooryavanshi",
+      "year": 2021,
+      "rating": 6.1,
+      "runtime": "145 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=u5r77-O7fcs",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Rohit Shetty",
+      "cast": [
+        "Akshay Kumar",
+        "Katrina Kaif",
+        "Ajay Devgn"
+      ],
+      "poster": "/movieposter/70.png",
+      "description": "The anti-terrorism squad chief stops at absolutely nothing to secure Mumbai from a dangerous active sleeping terror cell."
+    },
+    {
+      "id": "71",
+      "title": "Ek Tha Tiger",
+      "year": 2012,
+      "rating": 5.6,
+      "runtime": "132 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=2vI_XmF6x54",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Romance"
+      ],
+      "director": "Kabir Khan",
+      "cast": [
+        "Salman Khan",
+        "Katrina Kaif",
+        "Ranvir Shorey"
+      ],
+      "poster": "/movieposter/71.png",
+      "description": "India's top raw operational field spy falls deeply in love with a foreign Pakistani secret intelligence operative."
+    },
+    {
+      "id": "72",
+      "title": "Tiger Zinda Hai",
+      "year": 2017,
+      "rating": 5.9,
+      "runtime": "161 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=ePO5M5DE01I",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Ali Abbas Zafar",
+      "cast": [
+        "Salman Khan",
+        "Katrina Kaif",
+        "Sajjad Delafrooz"
+      ],
+      "poster": "/movieposter/72.png",
+      "description": "Two elite super-spies from rival nations join combined hands to rescue nursing hostages trapped by a radical terrorist group."
+    },
+    {
+      "id": "73",
+      "title": "Krrish",
+      "year": 2006,
+      "rating": 6.4,
+      "runtime": "175 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=A83N9g78mX0",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "director": "Rakesh Roshan",
+      "cast": [
+        "Hrithik Roshan",
+        "Priyanka Chopra",
+        "Naseeruddin Shah"
+      ],
+      "poster": "/movieposter/73.png",
+      "description": "A young man with gifted extraordinary physical abilities inherits superpowers, fighting a mad evil tech scientist abroad."
+    },
+    {
+      "id": "74",
+      "title": "Singham Returns",
+      "year": 2014,
+      "rating": 5.7,
+      "runtime": "145 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=SngYgD7E6wQ",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": "Rohit Shetty",
+      "cast": [
+        "Ajay Devgn",
+        "Kareena Kapoor",
+        "Amole Gupte"
+      ],
+      "poster": "/movieposter/74.png",
+      "description": "An unstoppable, honest police officer returns to clear political institutional system corruption hiding behind holy men facades."
+    },
+    {
+      "id": "75",
+      "title": "Bang Bang!",
+      "year": 2014,
+      "rating": 5.6,
+      "runtime": "153 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=UAcAFfnLVXk",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance"
+      ],
+      "director": "Siddharth Anand",
+      "cast": [
+        "Hrithik Roshan",
+        "Katrina Kaif",
+        "Danny Denzongpa"
+      ],
+      "poster": "/movieposter/75.png",
+      "description": "A chance encounter with a mysterious thief entangles an ordinary bank receptionist into a globe-trotting action chase."
+    },
+    {
+      "id": "76",
+      "title": "Rowdy Rathore",
+      "year": 2012,
+      "rating": 5.8,
+      "runtime": "140 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=I83K4bZQKpE",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "director": "Prabhu Deva",
+      "cast": [
+        "Akshay Kumar",
+        "Sonakshi Sinha",
+        "Nasser"
+      ],
+      "poster": "/movieposter/76.png",
+      "description": "A petty small thief discovers his uncanny twin identity with an honest, tough police inspector who was murdered."
+    },
+    {
+      "id": "77",
+      "title": "Phantom",
+      "year": 2015,
+      "rating": 5.9,
+      "runtime": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=3sC3Z-mFTpo",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "director": "Kabir Khan",
+      "cast": [
+        "Saif Ali Khan",
+        "Katrina Kaif",
+        "Sabyasachi Chakrabarty"
+      ],
+      "poster": "/movieposter/77.png",
+      "description": "A disgraced former Indian soldier initiates a dangerous covert global cross-border mission to eliminate the masterminds of terror attacks."
+    },
+    {
+      "id": "78",
+      "title": "Force",
+      "year": 2011,
+      "rating": 6.5,
+      "runtime": "137 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=r5kDtDW1Bsc",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "director": "Nishikant Kamat",
+      "cast": [
+        "John Abraham",
+        "Genelia D'Souza",
+        "Vidyut Jammwal"
+      ],
+      "poster": "/movieposter/78.png",
+      "description": "A highly dedicated narcotics bureau narcotics officer tracks a ruthless, vengeful international drug syndicate kingpin leader."
+    },
+    {
+      "id": "79",
+      "title": "Dishoom",
+      "year": 2016,
+      "rating": 5.2,
+      "runtime": "124 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4fzRUFMvPdk",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "director": "Rohit Dhawan",
+      "cast": [
+        "John Abraham",
+        "Varun Dhawan",
+        "Jacqueline Fernandez"
+      ],
+      "poster": "/movieposter/79.png",
+      "description": "Two mismatched police officers team up to locate a top Indian batsman who was kidnapped right before a crucial match."
+    },
+    {
+      "id": "80",
+      "title": "Roar: Tigers of the Sundarbans",
+      "year": 2014,
+      "rating": 5.6,
+      "runtime": "124 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=3I6NNGL1KAI",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "director": "Kamal Sadanah",
+      "cast": [
+        "Abhinav Shukla",
+        "Himarsha Venkatsamy",
+        "Achint Kaur"
+      ],
+      "poster": "/movieposter/80.png",
+      "description": "An elite military unit ventures deep into the treacherous Sundarbans to hunt down a lethal, man-eating royal white tigress."
+    },
+    {
+      "id": "81",
+      "title": "Blue",
+      "year": 2009,
+      "rating": 3.7,
+      "runtime": "119 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=GqTvW0kMpZk",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Thriller"
+      ],
+      "director": "Anthony D'Souza",
+      "cast": [
+        "Akshay Kumar",
+        "Sanjay Dutt",
+        "Zayed Khan"
+      ],
+      "poster": "/movieposter/81.png",
+      "description": "A group of skilled deep-sea divers brave shark-infested tropical ocean depths to recover treasure from a sunken cargo ship."
+    },
+    {
+      "id": "82",
+      "title": "Chander Pahar",
+      "year": 2013,
+      "rating": 6.4,
+      "runtime": "150 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=xZJZGHoGJqQ",
+      "genres": [
+        "Adventure",
+        "Action"
+      ],
+      "director": "Kamaleswar Mukherjee",
+      "cast": [
+        "Dev",
+        "Gérard Rudolf",
+        "Martin Cito Otto"
+      ],
+      "poster": "/movieposter/82.png",
+      "description": "An adventurous young Bengali man travels deep into rural Africa, encountering dangerous wild beasts and discovering lost gold mines."
+    },
+    {
+      "id": "83",
+      "title": "Kaalo",
+      "year": 2010,
+      "rating": 5.1,
+      "runtime": "93 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5eLpW5cBGgY",
+      "genres": [
+        "Adventure",
+        "Horror"
+      ],
+      "director": "Wilson Louis",
+      "cast": [
+        "Swini Khara",
+        "Aditya Srivastava",
+        "Sheela David"
+      ],
+      "poster": "/movieposter/83.png",
+      "description": "A stranded bus full of traveling passengers is targeted by an ancient, bloodthirsty demonic witch in a deserted wasteland."
+    },
+    {
+      "id": "84",
+      "title": "Housefull",
+      "year": 2010,
+      "rating": 5.5,
+      "runtime": "144 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=OBbUGqTFV_U",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "director": "Sajid Khan",
+      "cast": [
+        "Akshay Kumar",
+        "Riteish Deshmukh",
+        "Deepika Padukone"
+      ],
+      "poster": "/movieposter/84.png",
+      "description": "An unbelievably unlucky man believes he has found true love, leading to a massive chain of hilarious lies and misunderstandings."
+    },
+    {
+      "id": "85",
+      "title": "Garam Masala",
+      "year": 2005,
+      "rating": 6.7,
+      "runtime": "145 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=sxJm1b8Xk0A",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Priyadarshan",
+      "cast": [
+        "Akshay Kumar",
+        "John Abraham",
+        "Paresh Rawal"
+      ],
+      "poster": "/movieposter/85.png",
+      "description": "Two competing fashion photographers continuously trick each other, while one secretly dates three flight attendants simultaneously."
+    },
+    {
+      "id": "86",
+      "title": "Chup Chup Ke",
+      "year": 2006,
+      "rating": 6.9,
+      "runtime": "164 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=cqgQPYLUMbs",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "director": "Priyadarshan",
+      "cast": [
+        "Shahid Kapoor",
+        "Kareena Kapoor",
+        "Paresh Rawal"
+      ],
+      "poster": "/movieposter/86.png",
+      "description": "A debt-ridden young man fakes drowning to secure insurance money, only to be rescued by fishermen who mistake him for mute."
+    },
+    {
+      "id": "87",
+      "title": "Dhol",
+      "year": 2007,
+      "rating": 6.4,
+      "runtime": "142 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=j5s9Yz3_3nE",
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Mystery"
+      ],
+      "director": "Priyadarshan",
+      "cast": [
+        "Tusshar Kapoor",
+        "Sharman Joshi",
+        "Kunal Khemu"
+      ],
+      "poster": "/movieposter/87.png",
+      "description": "Four lazy, good-for-nothing friends try to woo a rich girl next door, accidentally getting framed in an active murder investigation."
+    },
+    {
+      "id": "88",
+      "title": "Bhagam Bhag",
+      "year": 2006,
+      "rating": 6.5,
+      "runtime": "159 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=xFrW2r_ZBFE",
+      "genres": [
+        "Comedy",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "Priyadarshan",
+      "cast": [
+        "Akshay Kumar",
+        "Govinda",
+        "Paresh Rawal"
+      ],
+      "poster": "/movieposter/88.png",
+      "description": "Members of a traveling theater crew are framed for a high-profile murder in London, getting chased by drug dealers."
+    },
+    {
+      "id": "89",
+      "title": "Golmaal Returns",
+      "year": 2008,
+      "rating": 5.1,
+      "runtime": "135 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=Tq8bM3v4_gA",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Rohit Shetty",
+      "cast": [
+        "Ajay Devgn",
+        "Kareena Kapoor",
+        "Arshad Warsi"
+      ],
+      "poster": "/movieposter/89.png",
+      "description": "A suspicious wife suspects her husband of cheating, creating a web of false identities that spirals completely out of control."
+    },
+    {
+      "id": "90",
+      "title": "Te3n",
+      "year": 2016,
+      "rating": 7.2,
+      "runtime": "136 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=IJ0yqXvYtmI",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "director": "Ribhu Dasgupta",
+      "cast": [
+        "Amitabh Bachchan",
+        "Nawazuddin Siddiqui",
+        "Vidya Balan"
+      ],
+      "poster": "/movieposter/90.png",
+      "description": "A grandfather, a former cop, and a priest join paths to investigate an identical copycat kidnapping eight years later."
+    },
+    {
+      "id": "91",
+      "title": "No Smoking",
+      "year": 2007,
+      "rating": 7.2,
+      "runtime": "128 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=G1K3Hx_lhgw",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Drama"
+      ],
+      "director": "Anurag Kashyap",
+      "cast": [
+        "John Abraham",
+        "Ayesha Takia",
+        "Paresh Rawal"
+      ],
+      "poster": "/movieposter/91.png",
+      "description": "A wealthy, arrogant chain smoker visits an unusual rehabilitation clinic to quit, only to find his soul held hostage."
+    },
+    {
+      "id": "92",
+      "title": "Game",
+      "year": 2011,
+      "rating": 5.6,
+      "runtime": "135 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=bqJhMnNQ3kM",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Mystery"
+      ],
+      "director": "Abhinay Deo",
+      "cast": [
+        "Abhishek Bachchan",
+        "Kangna Ranaut",
+        "Sarah-Jane Dias"
+      ],
+      "poster": "/movieposter/92.png",
+      "description": "A billionaire invites four strangers to his private island to expose a murder plot, only to end up dead himself."
+    },
+    {
+      "id": "93",
+      "title": "Race",
+      "year": 2008,
+      "rating": 6.7,
+      "runtime": "149 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=JKZM_HJPf-o",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "director": "Abbas-Mustan",
+      "cast": [
+        "Saif Ali Khan",
+        "Akshaye Khanna",
+        "Bipasha Basu"
+      ],
+      "poster": "/movieposter/93.png",
+      "description": "Betrayal, massive insurance scams, and deadly sibling rivalry flare up between two competitive horse-racing brothers."
+    },
+    {
+      "id": "94",
+      "title": "Gupt: The Hidden Truth",
+      "year": 1997,
+      "rating": 7.3,
+      "runtime": "173 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=gC8bGy7NXNE",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Romance"
+      ],
+      "director": "Rajiv Rai",
+      "cast": [
+        "Bobby Deol",
+        "Manisha Koirala",
+        "Kajol"
+      ],
+      "poster": "/movieposter/94.png",
+      "description": "A young man framed for the brutal murder of his stepfather escapes prison to find the real hidden killer."
+    },
+    {
+      "id": "95",
+      "title": "Darr",
+      "year": 1993,
+      "rating": 7.6,
+      "runtime": "178 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=yVQVYUf4jAE",
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama"
+      ],
+      "director": "Yash Chopra",
+      "cast": [
+        "Shah Rukh Khan",
+        "Juhi Chawla",
+        "Sunny Deol"
+      ],
+      "poster": "/movieposter/95.png",
+      "description": "An obsessive, psychopathic young man stalks his college crush, attempting to sabotage her marriage to her naval fiancé."
+    },
+    {
+      "id": "96",
+      "title": "Madras Cafe",
+      "year": 2013,
+      "rating": 7.6,
+      "runtime": "130 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5HqJOEZO1pY",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "director": "Shoojit Sircar",
+      "cast": [
+        "John Abraham",
+        "Nargis Fakhri",
+        "Rashi Khanna"
+      ],
+      "poster": "/movieposter/96.png",
+      "description": "An Indian army intelligence agent goes deep undercover into a war-torn island coastal zone to break a rebel group."
+    },
+    {
+      "id": "97",
+      "title": "Ittefaq",
+      "year": 2017,
+      "rating": 7.2,
+      "runtime": "100 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=WlHvihzMNb8",
+      "genres": [
+        "Thriller",
+        "Mystery"
+      ],
+      "director": "Abhay Chopra",
+      "cast": [
+        "Sidharth Malhotra",
+        "Sonakshi Sinha",
+        "Akshaye Khanna"
+      ],
+      "poster": "/movieposter/97.png",
+      "description": "A police officer investigates a suspicious double homicide case with only two witnesses who offer wildly differing stories."
+    },
+    {
+      "id": "98",
+      "title": "Baishe Srabon",
+      "year": 2011,
+      "rating": 8,
+      "runtime": "140 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=VYTGRHeCqrI",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Mystery"
+      ],
+      "director": "Srijit Mukherji",
+      "cast": [
+        "Prosenjit Chatterjee",
+        "Parambrata Chattopadhyay",
+        "Raimasen"
+      ],
+      "poster": "/movieposter/98.png",
+      "description": "A suspended police officer and an active detective team up to capture a serial killer leaving Bengali poetry at crime scenes."
+    },
+    {
+      "id": "99",
+      "title": "Shaitan",
+      "year": 2011,
+      "rating": 7.2,
+      "runtime": "121 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=ZIBJ85MK28U",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Bejoy Nambiar",
+      "cast": [
+        "Rajkummar Rao",
+        "Kalki Koechlin",
+        "Shiv Panditt"
+      ],
+      "poster": "/movieposter/99.png",
+      "description": "Five substance-abusing rich youngsters orchestrate a fake kidnapping to bribe police after an active hit-and-run crime."
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "movieId": "1",
+      "username": "Gaurav",
+      "userRating": 9,
+      "comment": "An absolute masterpiece. Heath Ledger is phenomenal!",
+      "date": "2026-05-16"
+    },
+    {
+      "movieId": "1",
+      "author": "gp",
+      "title": "dark",
+      "comment": "bhjb",
+      "rating": 4,
+      "date": "20 May 2026",
+      "id": "9REQPWbw4ns"
+    },
+    {
+      "movieId": "12",
+      "author": "Gaurav Patel",
+      "title": "best",
+      "comment": "badiya jakhas movie hai",
+      "rating": 8,
+      "date": "21 May 2026",
+      "id": "FU-1yVG4Luo"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "cC7iNZt8nXE",
+      "title": "Madras Cafe",
+      "year": 2013,
+      "rating": 7.6,
+      "runtime": "130 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=5HqJOEZO1pY",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Drama"
+      ],
+      "director": "Shoojit Sircar",
+      "cast": [
+        "John Abraham",
+        "Nargis Fakhri",
+        "Rashi Khanna"
+      ],
+      "poster": "/movieposter/96.png",
+      "description": "An Indian army intelligence agent goes deep undercover into a war-torn island coastal zone to break a rebel group."
+    },
+    {
+      "id": "hHTGGPVJua4",
+      "title": "Singham",
+      "year": 2011,
+      "rating": 6.8,
+      "runtime": "143 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=mp-XqCrCi6I",
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "director": "Rohit Shetty",
+      "cast": [
+        "Ajay Devgn",
+        "Prakash Raj",
+        "Kajal Aggarwal"
+      ],
+      "poster": "/movieposter/13.png",
+      "description": "An honest, small-town police officer clashes with a powerful, corrupt politician who controls the city's criminal underworld."
+    },
+    {
+      "id": "NY-G7-t7F10",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "certification": "UA",
+      "language": "English",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "description": "When the menace known as the Joker wreaks havoc on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "tags": [
+        "Blockbuster",
+        "2008",
+        "UA",
+        "2h 32m",
+        "English"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "trailerId": "EXeTwQWrcwY",
+      "accent": "#1a6bff"
+    },
+    {
+      "id": "JwCIeAftXUs",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "certification": "UA",
+      "language": "English",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "description": "When the menace known as the Joker wreaks havoc on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "tags": [
+        "Blockbuster",
+        "2008",
+        "UA",
+        "2h 32m",
+        "English"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "trailerId": "EXeTwQWrcwY",
+      "accent": "#1a6bff"
+    },
+    {
+      "id": "4wKHXZOF5CI",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "ZYILBS8_y2s",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "fbkvzOkF8cE",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "jR8mdBLrLU8",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "AywMpbSzkpE",
+      "title": "The Conjuring",
+      "year": 2013,
+      "rating": 7.5,
+      "runtime": "112 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "James Wan",
+      "cast": [
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Lili Taylor"
+      ],
+      "poster": "/movieposter/3.png",
+      "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    {
+      "id": "kxVRjzQqw4Q",
+      "title": "The Conjuring",
+      "year": 2013,
+      "rating": 7.5,
+      "runtime": "112 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=k10ETZ41q5o",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Thriller"
+      ],
+      "director": "James Wan",
+      "cast": [
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Lili Taylor"
+      ],
+      "poster": "/movieposter/3.png",
+      "description": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse."
+    },
+    {
+      "id": "KdJyySIuSUQ",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "pRlr0tyKeZk",
+      "title": "Superbad",
+      "year": 2007,
+      "rating": 7.6,
+      "runtime": "113 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=4eaZ_48ZYog",
+      "genres": [
+        "Comedy"
+      ],
+      "director": "Greg Mottola",
+      "cast": [
+        "Jonah Hill",
+        "Michael Cera",
+        "Christopher Mintz-Plasse"
+      ],
+      "poster": "/movieposter/2.png",
+      "description": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage an alcohol-fueled party goes awry."
+    },
+    {
+      "id": "lNAsmzzQOuo",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "poster": "/movieposter/1.png",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": "w-J8AOEuBsM",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "poster": "/movieposter/1.png",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": "ipr_qZw5ZYo",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "poster": "/movieposter/1.png",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": "KL4nJ9V2BDQ",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "trailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "cast": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "poster": "/movieposter/1.png",
+      "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
+    },
+    {
+      "id": "lftuSkWkn0I",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "certification": "UA",
+      "language": "English",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "description": "When the menace known as the Joker wreaks havoc on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "tags": [
+        "Blockbuster",
+        "2008",
+        "UA",
+        "2h 32m",
+        "English"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "trailerId": "EXeTwQWrcwY",
+      "accent": "#1a6bff"
+    },
+    {
+      "id": "h_QorJWmhOA",
+      "title": "The Dark Knight",
+      "year": 2008,
+      "rating": 9,
+      "runtime": "152 min",
+      "certification": "UA",
+      "language": "English",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "director": "Christopher Nolan",
+      "description": "When the menace known as the Joker wreaks havoc on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+      "tags": [
+        "Blockbuster",
+        "2008",
+        "UA",
+        "2h 32m",
+        "English"
+      ],
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NjF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
+      "trailerId": "EXeTwQWrcwY",
+      "accent": "#1a6bff"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
